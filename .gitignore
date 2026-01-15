@@ -1,0 +1,3 @@
+# Ignore crawl.json output file
+scanner/output/crawl.json
+vendor/

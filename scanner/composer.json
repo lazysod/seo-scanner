@@ -1,0 +1,22 @@
+{
+    "name": "barry/seo-mapper",
+    "description": "Tool for mapping websites and meta content",
+    "authors": [
+        {
+        "name": "Barry Smith",
+        "email": "divinorum2001@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.10",
+        "symfony/dom-crawler": "^7.3",
+        "symfony/css-selector": "^7.3",
+        "league/csv": "^9.27",
+        "symfony/console": "^7.3"
+    },
+    "autoload": {
+    "psr-4": {
+        "App\\": "src/"
+    }
+}
+}
