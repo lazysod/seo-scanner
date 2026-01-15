@@ -13,7 +13,8 @@ SEO Scanner is a PHP command-line tool for crawling websites and analyzing SEO d
 
 ## Installation
 1. Clone this repository or download the source code.
-2. Install dependencies with Composer:
+2. CD to the scanner folder.
+3. Install dependencies with Composer:
    ```bash
    composer install
    ```
